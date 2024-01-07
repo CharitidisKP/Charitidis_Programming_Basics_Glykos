@@ -1,0 +1,3 @@
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Project_ORF_finder/cmake-build-debug/CMakeFiles/Project_ORF_finder.dir
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Project_ORF_finder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Project_ORF_finder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
