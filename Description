@@ -1,0 +1,3 @@
+Project_ORF_finder --> The main program for finding the coding sequence.
+Remove_whitespaces --> Program for removing white spaces from multi line sequences and merging them into a single continuous line. 
+Test.c folder --> Contains the c programs writen in class. 
