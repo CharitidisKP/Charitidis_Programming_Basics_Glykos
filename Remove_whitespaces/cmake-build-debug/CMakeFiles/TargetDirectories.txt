@@ -1,0 +1,3 @@
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Remove_whitespaces/cmake-build-debug/CMakeFiles/Remove_whitespaces.dir
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Remove_whitespaces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/charitidisk/Duth/Applied_Bioinformatics/Programming_Basics/Projects/C++_Projects/Remove_whitespaces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
